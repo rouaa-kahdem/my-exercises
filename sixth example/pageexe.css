@@ -1,0 +1,168 @@
+*{
+    padding: 0px;
+    
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+body{
+    font-family: arial, tahoma;
+    padding: 10px;
+}
+
+.main{
+    background: white;
+    color:black;
+    height: 50px;
+    padding: 20px;
+}
+
+
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+ ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.hello {
+    text-align: center;
+    padding: 10px;
+    background-color: #e6e4e4;
+   margin: 10px;
+}
+
+.hello p {
+    font-weight: bold;
+    
+}
+
+.section2 {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+
+}
+
+.section2 div {
+    display: inline-block;
+    width: 131px;
+    margin: 10px;
+}
+
+.section2 div:last-of-type{
+    width:176px;
+}
+
+
+.section3 {
+    text-align: center;
+    background-color:  #e6e4e4;
+    margin: 10px;
+}
+.section3 div {
+    display:inline-block;
+    width: 176px;
+    margin: 10px;
+    text-align: left;
+} 
+
+
+
+
+.last {
+    text-align: center;
+}
+
+
+.last div {
+    display:inline-block;
+    margin: 10px;
+    width: 191px;
+    height: 95px;
+    
+    
+}
+
+.last div:first-of-type {
+    background-color: rgb(161, 214, 176);
+}
+
+.last div:nth-of-type(2) {
+    background-color: rgb(198, 207, 232);
+}
+
+.last div:last-of-type {
+    background-color: rgba(224, 125, 118, 0.438);
+}
+
+
+
+.active {
+    text-align: center;
+    margin: 25px;
+    background-color: #f9f6f6;
+   
+}
+
+.active progress
+{
+    background-color: rgb(255, 253, 253);
+    color: black;
+    width: 400px;
+    height: 15px;
+}
+
+.active div {
+    display: inline-block;
+    text-align: right;
+    
+}
+
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    font-size: 12px;
+   
+}
+
+
+.footer .start {
+
+    display: inline-block;
+    margin-right: 422px;
+    margin-left: 100px;
+
+}
+
+.footer .end {
+    display: inline-block;
+}
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+

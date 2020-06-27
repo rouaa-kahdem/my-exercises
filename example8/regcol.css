@@ -1,0 +1,37 @@
+* {
+    font-family: arial, tahoma;
+}
+.contianer {
+    margin: 19px auto;
+    padding: 30px;
+    background-color: #75b794;
+    width: 682px;
+    height: 336px;
+    line-height: 45px;
+    border: 5px solid #246f67;
+    color: #01210b;
+}
+
+.contianer form p input {
+    display: block;
+    width: 312px;
+    height: 34px;
+
+}
+
+.contianer form p {
+    float: left;
+    margin: 10px;
+}
+
+.contianer form input[type="submit"] {
+        width: 660px;
+        height: 37px;
+        font-size: 22px;
+        background-color: #246f67;
+        color: #ece4e4;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+        
+    }
+}

@@ -1,0 +1,139 @@
+.contianer {
+    background-color: rgb(217, 225, 234);
+    width:800px;
+    padding: 10px;
+    margin: 50PX auto;
+    font-family: arial , tahoma;
+    
+} 
+
+
+
+ .post1 {
+    width: 200px;
+    height: 200px;
+    line-height: 25px;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    display:inline-block;
+    border-bottom: 5px solid rgb(174, 74, 230);
+    color: rgb(17, 16, 16);
+
+
+}
+
+
+.post1 p {
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    font-size: 30px;
+    color: white;
+    margin-top: -32px;
+    margin-left: 77px;
+    background-color: rgb(174, 74, 230);
+    padding: 5px;
+    text-align: center;
+}
+
+
+.post1 button {
+    background-color:rgb(174, 74, 230);
+    color: white;
+    font-size: 15PX;
+   
+}
+
+
+
+.post2 {
+    width: 200px;
+    height: 200px;
+    line-height: 25px;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    display:inline-block;
+    border-bottom:5px solid rgb(94, 202, 95);
+    color: rgb(17, 16, 16);
+
+
+}
+
+
+.post2 p {
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    font-size: 30px;
+    color: white;
+    margin-top: -32px;
+    margin-left: 77px;
+    background-color: rgb(94, 202, 95);
+    padding: 5px;
+    color: white;
+}
+
+
+.post2 button {
+    background-color:rgb(94, 202, 95);
+    color: white;
+    font-size: 15PX;
+   
+}
+
+
+
+
+
+
+.post3 {
+    width: 200px;
+    height: 200px;
+    line-height: 25px;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    display:inline-block;
+    border-bottom:5PX SOLID rgb(232, 100, 115);
+    color: rgb(17, 16, 16);
+
+
+}
+
+
+.post3 p {
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    font-size: 30px;
+    color: white;
+    margin-top: -32px;
+    margin-left: 77px;
+    background-color: rgb(232, 100, 115);
+    padding: 5px;
+    color: white;
+}
+
+
+.post3 button {
+    background-color: rgb(232, 100, 115);
+    color: white;
+    font-size: 15PX;
+   
+}
+
+
+
+
+
+
+
+
+
+
+   

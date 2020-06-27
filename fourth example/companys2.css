@@ -1,0 +1,48 @@
+body {
+    display: inline;
+   
+    
+  
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.contianer {
+    width: 1000px;
+    
+}
+
+.contianer .first {
+    width:250px;
+    height:466px;
+    margin: 10px;
+    text-align: center;
+   float:left;
+    border:4px solid #ccc;
+    padding:10px;
+}
+
+.contianer .first header {
+    font-weight: bold;
+}
+
+.contianer .first div:first-of-type{
+    text-align: left;
+    font-size: 20px;
+}
+
+
+
+.contianer .first div  button {
+   
+    background-color: rgb(171, 159, 223);
+
+    
+}
+
+.first div span {
+    text-decoration: line-through;
+}
+
